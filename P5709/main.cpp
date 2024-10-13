@@ -2,17 +2,18 @@
 using namespace std;
 
 int main() {
-    int m = 0, t = 0, s = 0;
-    scanf("%d %d %d",&m,&t,&s);
-    if(t==0) {
-        cout << 0;
+    double apples, time_needed, time_passed;
+    cin >> apples >> time_needed >> time_passed;
+    if (time_needed == 0) {
+        cout << 0 << endl;
         return 0;
     }
-    if(s / t + (s % t > 0 ? 1: 0) > m) {
-        cout << 0;
+    double apple_eaten = time_passed / time_needed;
+    int apples_remaining = apples - apple_eaten;
+    if (apples_remaining < 0) {
+        cout << 0 << endl;
         return 0;
     }
-    int remaining = m - s / t + (s % t > 0 ? 1: 0);
-    cout << remaining;
+    cout << apples_remaining << endl;
     return 0;
 }
