@@ -1,15 +1,31 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
+import java.util.LinkedList;
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.print("Hello and welcome!");
-
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
+        Scanner sc = new Scanner(System.in);
+        int integer = sc.nextInt();
+        if(integer == 0){
+            System.out.println("0");
+            return;
+        }
+        String string = "" + integer;
+        LinkedList<Character> number_reverse = new LinkedList<>();
+        for (int i = string.length() - 1, j = 0; i >= 0 ; i--) {
+           number_reverse.addLast(string.charAt(i));
+        }
+        //input and reverse number
+        if(integer < 0){
+            number_reverse.removeLast();
+        }
+        while(number_reverse.getFirst() == '0' ){
+            number_reverse.removeFirst();
+        }
+        if(integer < 0){
+            number_reverse.addFirst('-');
+        }
+        for(char i : number_reverse){
+            System.out.print(i);
         }
     }
 }
