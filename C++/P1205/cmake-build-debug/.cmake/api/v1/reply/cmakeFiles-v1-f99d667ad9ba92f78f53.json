@@ -21,6 +21,11 @@
 		{
 			"isCMake" : true,
 			"isExternal" : true,
+			"path" : "C:/Users/kcalb/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeMinGWFindMake.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
 			"path" : "C:/Users/kcalb/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake"
 		},
 		{
@@ -817,8 +822,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "C:/Users/kcalb/Documents/GitHub/luogu/C++/P1205/cmake-build-debug",
-		"source" : "C:/Users/kcalb/Documents/GitHub/luogu/C++/P1205"
+		"build" : "C:/Users/kcalb/Documents/luogu/C++/P1205/cmake-build-debug",
+		"source" : "C:/Users/kcalb/Documents/luogu/C++/P1205"
 	},
 	"version" : 
 	{
