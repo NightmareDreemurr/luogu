@@ -2,31 +2,17 @@
 using namespace std;
 
 int main() {
-    int n,max = 0;
-    string text, new_text;
+    int n;
+    string text;
     cin >> n >> text;
-    // int pos,count = 0;
-    // while ((pos = text.find("VK",pos + 1)) != string::npos) {
-    //     count++;
-    // }
-    // if (count > max) {
-    //     max = count;
-    // }
-    for(int i = 0; i < n; i++) {
-        new_text = text;
-        if(new_text[i] == 'V') {
-            new_text[i] = 'K';
-        } else {
-            new_text[i] = 'V';
-        }
-        int pos_new_text, count_new_text = 0;
-        while ((pos_new_text = new_text.find("VK",pos_new_text + 1)) != string::npos) {
-            count_new_text++;
-        }
-        if (count_new_text > max) {
-            max = count_new_text;
-        }
+    int pos = 0, vk_count = 0;
+    while ((pos = text.find("VK",pos)) != string::npos) {
+        vk_count++;
+        text.replace(pos, 2, "1");
     }
-    cout << max << endl;
+    if (text.find("VV") != string::npos || text.find("KK") != string::npos) {
+        vk_count++;
+    }
+    cout << vk_count << endl;
     return 0;
 }
