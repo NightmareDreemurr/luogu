@@ -4,7 +4,7 @@ int main()
 {
     int n;
     cin >> n;
-    vector<vector<int>> yhsj;
+    vector<vector<int> > yhsj;
     yhsj.resize(n);
     yhsj[0].push_back(1);
     yhsj[1].push_back(1);
