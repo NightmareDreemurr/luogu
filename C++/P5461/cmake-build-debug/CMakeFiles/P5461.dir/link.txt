@@ -1,0 +1,3 @@
+C:\Users\kcalb\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\P5461.dir/objects.a
+C:\Users\kcalb\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\P5461.dir/objects.a @CMakeFiles\P5461.dir\objects1.rsp
+C:\Users\kcalb\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\P5461.dir/objects.a -Wl,--no-whole-archive -o P5461.exe -Wl,--out-implib,libP5461.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\P5461.dir\linkLibs.rsp

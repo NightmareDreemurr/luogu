@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/kcalb/Documents/GitHub/luogu/C++/P5461/cmake-build-debug"
+			"value" : "c:/Users/kcalb/Documents/luogu/C++/P5741/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/kcalb/Documents/GitHub/luogu/C++/P5461/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/kcalb/Documents/luogu/C++/P5741/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/kcalb/Documents/GitHub/luogu/C++/P5461"
+			"value" : "C:/Users/kcalb/Documents/luogu/C++/P5741"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/P5461"
+			"value" : "C:/Program Files (x86)/P5741"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -875,7 +875,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "P5461"
+			"value" : "P5741"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1270,7 +1270,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "P5461_BINARY_DIR",
+			"name" : "P5741_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1279,10 +1279,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/kcalb/Documents/GitHub/luogu/C++/P5461/cmake-build-debug"
+			"value" : "C:/Users/kcalb/Documents/luogu/C++/P5741/cmake-build-debug"
 		},
 		{
-			"name" : "P5461_IS_TOP_LEVEL",
+			"name" : "P5741_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1294,7 +1294,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "P5461_SOURCE_DIR",
+			"name" : "P5741_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1303,7 +1303,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/kcalb/Documents/GitHub/luogu/C++/P5461"
+			"value" : "C:/Users/kcalb/Documents/luogu/C++/P5741"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
