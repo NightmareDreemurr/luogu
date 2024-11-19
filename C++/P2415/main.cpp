@@ -2,13 +2,17 @@
 using namespace std;
 
 int main() {
-    set<int> set1;
-    cin.ignore();
+    vector<int> set1;
     while(cin.peek() != '\n') {
-        set1.insert(cin.get() - 0);
+        int temp;
+        cin >> temp;
+        set1.push_back(temp);
+    } //input
+    unsigned long long result = 0;
+    for (auto &a : set1) {
+        result += a;
     }
-    for(auto a : set1) {
-        cout << a << endl;
-    }
+    result *= pow(2,set1.size() - 1);
+    cout << result << endl;
     return 0;
 }
