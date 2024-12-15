@@ -1,3 +1,0 @@
-C:/Users/kcalb/Documents/GitHub/luogu/C++/P1518/cmake-build-debug/CMakeFiles/P1518.dir
-C:/Users/kcalb/Documents/GitHub/luogu/C++/P1518/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/kcalb/Documents/GitHub/luogu/C++/P1518/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,3 +1,0 @@
-C:/Users/kcalb/Documents/luogu/B2002/cmake-build-debug/CMakeFiles/B2002.dir
-C:/Users/kcalb/Documents/luogu/B2002/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/kcalb/Documents/luogu/B2002/cmake-build-debug/CMakeFiles/rebuild_cache.dir

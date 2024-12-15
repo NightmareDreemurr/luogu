@@ -1,3 +1,0 @@
-C:/Users/kcalb/Documents/luogu/C++/P5015/cmake-build-debug/CMakeFiles/P5015.dir
-C:/Users/kcalb/Documents/luogu/C++/P5015/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/kcalb/Documents/luogu/C++/P5015/cmake-build-debug/CMakeFiles/rebuild_cache.dir

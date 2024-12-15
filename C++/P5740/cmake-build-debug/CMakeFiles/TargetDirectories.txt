@@ -1,3 +1,0 @@
-C:/Users/kcalb/Documents/luogu/C++/P5740/cmake-build-debug/CMakeFiles/P5740.dir
-C:/Users/kcalb/Documents/luogu/C++/P5740/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/kcalb/Documents/luogu/C++/P5740/cmake-build-debug/CMakeFiles/rebuild_cache.dir

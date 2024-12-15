@@ -1,3 +1,0 @@
-C:/Users/kcalb/Documents/GitHub/luogu/P2669/cmake-build-debug/CMakeFiles/P2669.dir
-C:/Users/kcalb/Documents/GitHub/luogu/P2669/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/kcalb/Documents/GitHub/luogu/P2669/cmake-build-debug/CMakeFiles/rebuild_cache.dir

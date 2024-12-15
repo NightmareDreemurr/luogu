@@ -1,3 +1,0 @@
-C:/Users/kcalb/CLionProjects/P5721/cmake-build-debug/CMakeFiles/P5721.dir
-C:/Users/kcalb/CLionProjects/P5721/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/kcalb/CLionProjects/P5721/cmake-build-debug/CMakeFiles/rebuild_cache.dir

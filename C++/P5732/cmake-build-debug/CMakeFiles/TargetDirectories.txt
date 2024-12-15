@@ -1,3 +1,0 @@
-C:/Users/kcalb/Documents/GitHub/luogu/C++/P5732/cmake-build-debug/CMakeFiles/P5732.dir
-C:/Users/kcalb/Documents/GitHub/luogu/C++/P5732/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/kcalb/Documents/GitHub/luogu/C++/P5732/cmake-build-debug/CMakeFiles/rebuild_cache.dir
