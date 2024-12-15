@@ -1,0 +1,99 @@
+# ---------------------------
+# C/C++ Build Artifacts
+# ---------------------------
+
+# Build directories (modify if you use different build folder names)
+cmake-build-*/
+build/
+out/
+
+# Object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Libraries
+*.lib
+*.a
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# ---------------------------
+# CMake Generated Files
+# ---------------------------
+
+# CMake cache files
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+CTestTestfile.cmake
+cmake_install.cmake
+Makefile
+
+# ---------------------------
+# JetBrains CLion Specific
+# ---------------------------
+
+# User-specific configurations
+.idea/*
+# Except the following files
+!.idea/*.iml
+!.idea/modules.xml
+!.idea/vcs.xml
+!.idea/runConfigurations/
+!.idea/misc.xml
+!.idea/caches/
+
+# Ignore all .iml files
+*.iml
+
+# ---------------------------
+# General IDEs and Editors
+# ---------------------------
+
+# Backup and temporary files
+*~
+*.swp
+*.swo
+*.tmp
+*.log
+
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+
+# ---------------------------
+# Other Temporary Files
+# ---------------------------
+
+# C/C++ specific temporary files
+*.bak
+*.backup
+*.orig
+*.rej
+
+# ---------------------------
+# Optional: Include if using Git LFS
+# ---------------------------
+# *.psd
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.svg
+# *.mp4
+# *.mov
